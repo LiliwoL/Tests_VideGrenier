@@ -1,5 +1,5 @@
 .idea
 .DS_STORE
-db_data/
+dbdata/
 src/
 var/
